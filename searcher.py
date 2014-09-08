@@ -109,7 +109,7 @@ if __name__ == '__main__':
 	if not opts:
 		usage()
 
-	datapath = '/media/bright/43955604-e871-419c-bdfd-216a3b3637bb/Database'
+	datapath = ''
 	fstr = ''
 	dbindex = -1
 	search_range = '' 
