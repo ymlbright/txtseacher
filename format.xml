@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bright>
+    <format>
+        <extension>txt</extension>
+        <startno>01</startno>
+        <endno>04</endno>
+        <startline>1</startline>
+        <splitchar>\t</splitchar>
+        <filed>Email,Password</filed>
+    </format>
+    <information>
+        <source>7k7k</source>
+        <size>468M</size>
+        <date>2011-10-03</date>
+        <main>Username,Email,Password,Name,CardNo,Address,Telphone,Id</main>
+        <content>Email,Password</content>
+    </information>
+</bright>
